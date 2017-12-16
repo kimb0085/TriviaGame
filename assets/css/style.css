@@ -1,0 +1,66 @@
+* {
+	box
+}
+
+body {
+	background-image: url(../images/beer-background.jpg);
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: maroon;
+	color: gold;
+}
+
+img {
+	height: 75px;
+	width: 100px;
+	position: relative;
+	top: 0;
+	left: 500px;
+}
+
+h2 {
+	text-align: center;
+	padding: 15px;
+}
+
+.panel {
+	border-color: maroon;
+}
+
+.panel-heading {
+	background-color: maroon;
+	color: gold;
+}
+
+#play {
+	font-size: 20px;
+	background-color: gold;
+	border-color: gold;
+	color: maroon;
+	width: 150px;
+	height: 50px;
+	font-weight: bold;
+}
+
+#display {
+  font-family: monospace;
+  font-size: 80px;
+  color: maroon;
+  border-color: gold;
+  text-align: center;
+  background: gold;
+  width: 300px;
+  margin-bottom: 15px;
+}
+
+#replay {
+	font-size: 20px;
+	background-color: gold;
+	border-color: gold;
+	color: maroon;
+	width: 150px;
+	height: 50px;
+	font-weight: bold;
+}
