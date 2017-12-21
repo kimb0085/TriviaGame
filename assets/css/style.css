@@ -34,6 +34,12 @@ h2 {
 	color: gold;
 }
 
+#questions {
+	text-align: center;
+	font-size: 25px;
+	word-spacing: 3px;
+}
+
 #play {
 	font-size: 20px;
 	background-color: gold;
@@ -46,13 +52,22 @@ h2 {
 
 #display {
   font-family: monospace;
-  font-size: 80px;
   color: maroon;
   border-color: gold;
   text-align: center;
   background: gold;
   width: 300px;
   margin-bottom: 15px;
+}
+
+#submit {
+	font-size: 20px;
+	background-color: gold;
+	border-color: gold;
+	color: maroon;
+	width: 150px;
+	height: 50px;
+	font-weight: bold;
 }
 
 #replay {
